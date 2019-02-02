@@ -13,6 +13,7 @@ namespace newProject1
             int a = 5;
             Console.WriteLine(a++ +" "+ a++ +" " + ++a + " "+ a++);
             Console.ReadLine();
+            Modify test.txt 2;
         }
     }
 }
